@@ -7,8 +7,8 @@ import scipy
 
 # Path to input and output folders
 
-ip_path = '/home/asrivast/L0Minimization/Python/inputs'
-op_path = '/home/asrivast/L0Minimization/Python/outputs'
+ip_path = 'Enter the input path here'
+op_path = 'Enter the output path here'
 
 # Load original image
 
