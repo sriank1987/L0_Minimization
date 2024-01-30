@@ -11,8 +11,8 @@ stop = 100
 n=stop-start
 
 # Path to input and output folders
-ip_path = '/home/asrivast/L0Minimization/inputs'
-op_path = '/home/asrivast/L0Minimization/outputs'
+ip_path = 'Enter the input path here'
+op_path = 'Enter the output path here'
 
 # Generate a 1D random signal
 ip_1d = np.arange(start,stop)
